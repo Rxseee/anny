@@ -1,0 +1,2 @@
+# anny
+anydesk ip resolver
